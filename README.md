@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm B Mohnish Karthikeyan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohnishkarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="mohnishkarthikeyan" /> </p>
 
 - 🌱 I’m currently learning **Nodejs, React and Machine Learning**
@@ -12,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohnish-karthikeyan-76ba06220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohnish-karthikeyan-76ba06220" height="30" width="40" /></a>
+<a href="https://instagram.com/ii.mohnish.ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ii.mohnish.ii" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohnish_1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohnish_1612" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohnishkarthike1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohnishkarthike1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohnish_karthikeyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohnish_karthikeyan" height="30" width="40" /></a>
