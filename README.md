@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohnishkarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="mohnishkarthikeyan" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, React and Machine Learning**
+- 🌱 I’m currently learning **NodeJS, ReactJS, Machine Learning and Data Science**
 
-- 👯 I’m looking to collaborate on **Frontend Web Development Projects**
+- 👯 I’m looking to collaborate on **Frontend Web Development and Data Science Projects**
 
 - 📫 How to reach me **mohnish1612@gmail.com**
 
