@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
-🔭 I'm currently an 3rd year undergrad pursuing B.Tech in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.<br><br>🌱 I’m currently learning NodeJS, ReactJS, Machine Learning and Data Analytics.<br><br>👯 I’m looking to collaborate on Frontend Web Development, ML and Data Analytics Projects<br><br>📫 How to reach me mohnish1612@gmail.com<br><br>
+🔭 I'm currently a 3rd year undergrad pursuing B.Tech in Computer Science and Engineering from Vellore Institute of Technology, Chennai, India.<br><br>🌱 I’m currently learning NodeJS, ReactJS, Machine Learning and Data Analytics.<br><br>👯 I’m looking to collaborate on Frontend Web Development, ML and Data Analytics Projects<br><br>📫 How to reach me mohnish1612@gmail.com<br><br>
 
 
 ## 🌐 Socials:
